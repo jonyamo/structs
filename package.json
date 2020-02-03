@@ -1,6 +1,6 @@
 {
   "name": "@jonyamo/structs",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "Unrefined simple data structures in TypeScript",
   "keywords": [],
   "license": "ISC",
@@ -46,5 +46,9 @@
     "rimraf": "^3.0.1",
     "sort-package-json": "^1.39.1",
     "typescript": "^3.7.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonyamo/structs.git"
   }
 }
